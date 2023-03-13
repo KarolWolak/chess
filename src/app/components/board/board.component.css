@@ -1,0 +1,397 @@
+
+#container {
+    margin: auto;
+    width: 1320px;
+    height: 1320px;
+}
+
+
+
+#board {
+    width: 880px;
+    height: 880px;
+    background-image: url("src/assets/board.png");
+    padding: 0;
+    margin: 0;
+
+}
+
+.col-1{
+    background-color: green;
+    padding: 0;
+    margin: 0;
+}
+
+.white_pawn {
+    background-image: url("src/assets/pieces/white/pawn.svg");
+}
+
+.white_king {
+    background-image: url("src/assets/pieces/white/king.svg");
+}
+
+.white_rook {
+    background-image: url("src/assets/pieces/white/rook.svg");
+}
+
+.white_knight {
+    background-image: url("src/assets/pieces/white/knight.svg");
+}
+
+.white_bishop {
+    background-image: url("src/assets/pieces/white/bishop.svg");
+}
+
+.white_queen {
+    background-image: url("src/assets/pieces/white/queen.svg");
+}
+
+.black_pawn {
+    background-image: url("src/assets/pieces/black/pawn.svg");
+}
+
+.black_king {
+    background-image: url("src/assets/pieces/black/king.svg");
+}
+
+.black_rook {
+    background-image: url("src/assets/pieces/black/rook.svg");
+}
+
+.black_knight {
+    background-image: url("src/assets/pieces/black/knight.svg");
+}
+
+.black_bishop {
+    background-image: url("src/assets/pieces/black/bishop.svg");
+}
+
+.black_queen {
+    background-image: url("src/assets/pieces/black/queen.svg");
+}
+
+
+
+
+
+
+
+#H1 {
+    height: 110px;
+    width: 110px;
+}
+
+#H2 {
+    height: 110px;
+    width: 110px;
+}
+
+#H3 {
+    height: 110px;
+    width: 110px;
+}
+
+#H4 {
+    height: 110px;
+    width: 110px;
+}
+
+#H5 {
+    height: 110px;
+    width: 110px;
+}
+
+#H6 {
+    height: 110px;
+    width: 110px;
+}
+
+#H7 {
+    height: 110px;
+    width: 110px;
+}
+
+#H8 {
+    height: 110px;
+    width: 110px;
+}
+
+#G1 {
+    height: 110px;
+    width: 110px;
+}
+
+#G2 {
+    height: 110px;
+    width: 110px;
+}
+
+#G3 {
+    height: 110px;
+    width: 110px;
+}
+
+#G4 {
+    height: 110px;
+    width: 110px;
+}
+
+#G5 {
+    height: 110px;
+    width: 110px;
+}
+
+#G6 {
+    height: 110px;
+    width: 110px;
+}
+
+#G7 {
+    height: 110px;
+    width: 110px;
+}
+
+#G8 {
+    height: 110px;
+    width: 110px;
+}
+
+#F1 {
+    height: 110px;
+    width: 110px;
+}
+
+#F2 {
+    height: 110px;
+    width: 110px;
+}
+
+#F3 {
+    height: 110px;
+    width: 110px;
+}
+
+#F4 {
+    height: 110px;
+    width: 110px;
+}
+
+#F5 {
+    height: 110px;
+    width: 110px;
+}
+
+#F6 {
+    height: 110px;
+    width: 110px;
+}
+
+#F7 {
+    height: 110px;
+    width: 110px;
+}
+
+#F8 {
+    height: 110px;
+    width: 110px;
+}
+
+#E1 {
+    height: 110px;
+    width: 110px;
+}
+
+#E2 {
+    height: 110px;
+    width: 110px;
+}
+
+#E3 {
+    height: 110px;
+    width: 110px;
+}
+
+#E4 {
+    height: 110px;
+    width: 110px;
+}
+
+#E5 {
+    height: 110px;
+    width: 110px;
+}
+
+#E6 {
+    height: 110px;
+    width: 110px;
+}
+
+#E7 {
+    height: 110px;
+    width: 110px;
+}
+
+#E8 {
+    height: 110px;
+    width: 110px;
+}
+
+#D1 {
+    height: 110px;
+    width: 110px;
+}
+
+#D2 {
+    height: 110px;
+    width: 110px;
+}
+
+#D3 {
+    height: 110px;
+    width: 110px;
+}
+
+#D4 {
+    height: 110px;
+    width: 110px;
+}
+
+#D5 {
+    height: 110px;
+    width: 110px;
+}
+
+#D6 {
+    height: 110px;
+    width: 110px;
+}
+
+#D7 {
+    height: 110px;
+    width: 110px;
+}
+
+#D8 {
+    height: 110px;
+    width: 110px;
+}
+
+#C1 {
+    height: 110px;
+    width: 110px;
+}
+
+#C2 {
+    height: 110px;
+    width: 110px;
+}
+
+#C3 {
+    height: 110px;
+    width: 110px;
+}
+
+#C4 {
+    height: 110px;
+    width: 110px;
+}
+
+#C5 {
+    height: 110px;
+    width: 110px;
+}
+
+#C6 {
+    height: 110px;
+    width: 110px;
+}
+
+#C7 {
+    height: 110px;
+    width: 110px;
+}
+
+#C8 {
+    height: 110px;
+    width: 110px;
+}
+
+#B1 {
+    height: 110px;
+    width: 110px;
+}
+
+#B2 {
+    height: 110px;
+    width: 110px;
+}
+
+#B3 {
+    height: 110px;
+    width: 110px;
+}
+
+#B4 {
+    height: 110px;
+    width: 110px;
+}
+
+#B5 {
+    height: 110px;
+    width: 110px;
+}
+
+#B6 {
+    height: 110px;
+    width: 110px;
+}
+
+#B7 {
+    height: 110px;
+    width: 110px;
+}
+
+#B8 {
+    height: 110px;
+    width: 110px;
+}
+
+#A1 {
+    height: 110px;
+    width: 110px;}
+
+#A2 {
+    height: 110px;
+    width: 110px;
+}
+
+#A3 {
+    height: 110px;
+    width: 110px;
+}
+
+#A4 {
+    height: 110px;
+    width: 110px;
+}
+
+#A5 {
+    height: 110px;
+    width: 110px;
+}
+
+#A6 {
+    height: 110px;
+    width: 110px;
+}
+
+#A7 {
+    height: 110px;
+    width: 110px;
+}
+
+#A8 {
+    height: 110px;
+    width: 110px;
+}
+
